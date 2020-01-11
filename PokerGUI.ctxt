@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PokerGUI
+comment0.text=\r\nGUI\ front\ end\ to\ a\ dice\ game\ called\ Poker\ Dice\r\n\r\n\ @author\ Christian\ Tsoungui\ Nkoulou\r\n\ @version\ April\ 13,\ 2013\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ Main\ method\ start\ the\ game\r\n
+comment2.params=
+comment2.target=PokerGUI()
+comment2.text=\r\n\ \ \ \ Create\ all\ elements\ and\ display\ within\ GUI\r\n
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\r\n\ \ \ \ This\ method\ called\ when\ any\ button\ or\ a\ menu\ item\r\n\ \ \ \ is\ selected\r\n\r\n\ \ \ \ @param\ event\ -\ the\ JComponent\ just\ selected\r\n
+numComments=5
